@@ -10,3 +10,4 @@ git push -u origin main->conetti a git hub
 clear->pulisce
 git push->aggiorna su git hub
 1111
+git clone ->incolla url
