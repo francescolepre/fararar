@@ -1,0 +1,11 @@
+git init ->crea una repository locale
+git status->verifica lo stato della repository locale
+git add nome file -> traccia il file
+git add .->traccia tutti i file
+git commit -m 'messaggio'->salva il proggetto con etichetta 
+git config --global --list-> elenco username/email
+git clone 'link'->collega repository
+git branch -M main->cambio branch con main
+git push -u origin main->conetti a git hub
+clear->pulisce
+git push->aggiorna su git hub
